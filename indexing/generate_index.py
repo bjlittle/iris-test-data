@@ -34,7 +34,7 @@ def getDataFilepaths(path: Path) -> List[Path]:
 def getFileInfos(filepaths: List[Path]) -> List[FileInfo]:
     file_infos = defaultdict(list)
 
-    for filepath in filepaths:
+    for filepath in sorted(filepaths):
 
         items = []
         is_png = False

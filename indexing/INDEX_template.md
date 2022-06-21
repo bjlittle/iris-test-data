@@ -1,10 +1,10 @@
-{%  for prefix, data in content.items()%}
+{% for prefix, data in content.items() %}
 
 <details>
 
   <summary>{{ prefix }}</summary>
 
-  {% for filepath, link_path, items, is_png, warnings, exceptions in data %}
+  {% for filepath, link_path, items, is_png, warnings, exceptions in data|sort(attribute="path") %}
   #### [{{ filepath }}]({{ link_path }})
 
   {% if is_png %}
