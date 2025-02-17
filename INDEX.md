@@ -71,6 +71,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [FF/lbc/small_lbc](test_data/FF/lbc/small_lbc)
@@ -272,6 +278,8 @@
   
   IrisUserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
   
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
   ```
   
   
@@ -320,6 +328,8 @@
   
   IrisLoadWarning: Input field skipped as PPField creation failed : error = 'Unsupported header release number: -32768'
   
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
   ```
   
   
@@ -353,6 +363,8 @@
   IrisLoadWarning: Input field skipped as PPField creation failed : error = 'Unsupported header release number: -32768'
   
   IrisUserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
   
   ```
   
@@ -429,6 +441,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [FF/n48_multi_field_table_count](test_data/FF/n48_multi_field_table_count)
@@ -502,6 +520,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [FF/structured/small](test_data/FF/structured/small)
@@ -532,6 +556,8 @@
   ```
   
   IrisUserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
   
   ```
   
@@ -598,6 +624,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [GRIB/bulletin/40bytes.grib](test_data/GRIB/bulletin/40bytes.grib)
@@ -620,6 +652,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [GRIB/bulletin/41bytes.grib](test_data/GRIB/bulletin/41bytes.grib)
@@ -640,6 +678,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -663,6 +707,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [GRIB/fp_units/hours.grib2](test_data/GRIB/fp_units/hours.grib2)
@@ -684,6 +734,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -707,6 +763,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [GRIB/fp_units/seconds.grib2](test_data/GRIB/fp_units/seconds.grib2)
@@ -728,6 +790,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -751,6 +819,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [GRIB/gaussian/regular_gg.grib2](test_data/GRIB/gaussian/regular_gg.grib2)
@@ -772,6 +846,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -797,6 +877,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [GRIB/grib1_second_order_packing/GRIB_00008_FRANX01](test_data/GRIB/grib1_second_order_packing/GRIB_00008_FRANX01)
@@ -817,6 +903,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -842,6 +934,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [GRIB/ij_directions/ineg_jpos.grib2](test_data/GRIB/ij_directions/ineg_jpos.grib2)
@@ -865,6 +963,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -890,6 +994,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [GRIB/ij_directions/ipos_jpos.grib2](test_data/GRIB/ij_directions/ipos_jpos.grib2)
@@ -913,6 +1023,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -938,6 +1054,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [GRIB/lambert/lambert.grib1](test_data/GRIB/lambert/lambert.grib1)
@@ -959,6 +1081,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -982,6 +1110,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [GRIB/missing_values/ice_severity__no_bitsPerValue.grib2](test_data/GRIB/missing_values/ice_severity__no_bitsPerValue.grib2)
@@ -1003,6 +1137,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -1026,6 +1166,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [GRIB/polar_stereo/CMC_glb_TMP_ISBL_1015_ps30km_2013052000_P006.grib2](test_data/GRIB/polar_stereo/CMC_glb_TMP_ISBL_1015_ps30km_2013052000_P006.grib2)
@@ -1047,6 +1193,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -1070,6 +1222,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -1098,6 +1256,8 @@
   
   ```
   
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
   IrisUserWarning: Unable to create instance of HybridPressureFactory. The source data contains no field(s) for 'ref_surface_pressure'.
   
   ```
@@ -1121,6 +1281,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [GRIB/reduced/reduced_ll_missing.grib1](test_data/GRIB/reduced/reduced_ll_missing.grib1)
@@ -1139,6 +1305,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -1162,6 +1334,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [GRIB/rotated_uk/uk_wrongparam.grib1](test_data/GRIB/rotated_uk/uk_wrongparam.grib1)
@@ -1183,6 +1361,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -1208,6 +1392,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [GRIB/shape_of_earth/1.grib2](test_data/GRIB/shape_of_earth/1.grib2)
@@ -1231,6 +1421,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -1256,6 +1452,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [GRIB/shape_of_earth/3.grib2](test_data/GRIB/shape_of_earth/3.grib2)
@@ -1279,6 +1481,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -1304,6 +1512,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [GRIB/shape_of_earth/5.grib2](test_data/GRIB/shape_of_earth/5.grib2)
@@ -1327,6 +1541,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -1352,6 +1572,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [GRIB/shape_of_earth/7.grib2](test_data/GRIB/shape_of_earth/7.grib2)
@@ -1376,6 +1602,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [GRIB/shape_of_earth/global.grib1](test_data/GRIB/shape_of_earth/global.grib1)
@@ -1397,6 +1629,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -1420,6 +1658,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -1445,6 +1689,12 @@
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [GRIB/uk_t/uk_t.grib2](test_data/GRIB/uk_t/uk_t.grib2)
@@ -1466,6 +1716,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -1489,6 +1745,12 @@
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -1516,15 +1778,21 @@
         Scalar coordinates:
             forecast_reference_time     2010-07-02 06:00:00
         Attributes:
-            field_code                  155
+            field_code                  np.int16(155)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'UM?'
             title                       'Unknown'
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -1545,10 +1813,10 @@
             forecast_reference_time                 2020-01-28 03:00:00
             time                                    2020-01-28 04:00:00
         Attributes:
-            field_code                              172
+            field_code                              np.int16(172)
             institution                             'Met Office'
-            nimrod_version                          2
-            num_model_levels                        1
+            nimrod_version                          np.int16(2)
+            num_model_levels                        np.int16(1)
             source                                  'ek00cloud diagnostics'
             title                                   'Unknown'
   ```
@@ -1568,10 +1836,10 @@
             time                            2020-01-28 04:00:00
         Attributes:
             Probability methods             ['ST (Some Time)']
-            field_code                      172
+            field_code                      np.int16(172)
             institution                     'Met Office'
-            nimrod_version                  2
-            num_model_levels                1
+            nimrod_version                  np.int16(2)
+            num_model_levels                np.int16(1)
             source                          'ek11cloud diagnostics'
             title                           'Unknown'
   ```
@@ -1588,10 +1856,10 @@
             height                                                0.0 m, bound=(0.0, 304.8) m
             time                                                  2020-01-28 04:00:00
         Attributes:
-            field_code                                            172
+            field_code                                            np.int16(172)
             institution                                           'Met Office'
-            nimrod_version                                        2
-            num_model_levels                                      1
+            nimrod_version                                        np.int16(2)
+            num_model_levels                                      np.int16(1)
             source                                                'ek11cloud diagnostics'
             title                                                 'Unknown'
   ```
@@ -1610,13 +1878,13 @@
             time                                           2020-01-28 04:00:00
         Attributes:
             Probability methods                            ['ST (Some Time)']
-            field_code                                     172
+            field_code                                     np.int16(172)
             institution                                    'Met Office'
             neighbourhood_radius                           '28.0 km'
-            nimrod_version                                 2
-            num_model_levels                               1
-            recursive_filter_alpha                         0.6
-            recursive_filter_iterations                    2
+            nimrod_version                                 np.int16(2)
+            num_model_levels                               np.int16(1)
+            recursive_filter_alpha                         np.float32(0.6)
+            recursive_filter_iterations                    np.int16(2)
             source                                         'ek11cloud diagnostics'
             title                                          'Unknown'
   ```
@@ -1635,10 +1903,10 @@
             time                                           2020-01-28 04:00:00
         Attributes:
             Probability methods                            ['ST (Some Time)']
-            field_code                                     172
+            field_code                                     np.int16(172)
             institution                                    'Met Office'
-            nimrod_version                                 2
-            num_model_levels                               1
+            nimrod_version                                 np.int16(2)
+            num_model_levels                               np.int16(1)
             source                                         'ek11cloud diagnostics'
             title                                          'Unknown'
   ```
@@ -1657,13 +1925,13 @@
             time                        2020-01-28 04:00:00
         Attributes:
             Probability methods         ['ST (Some Time)']
-            field_code                  29
+            field_code                  np.int16(29)
             institution                 'Met Office'
             neighbourhood_radius        '8.0 km'
-            nimrod_version              2
-            num_model_levels            1
-            recursive_filter_alpha      0.2
-            recursive_filter_iterations 1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
+            recursive_filter_alpha      np.float32(0.2)
+            recursive_filter_iterations np.int16(1)
             source                      'UM?'
             title                       'Unknown'
   ```
@@ -1681,10 +1949,10 @@
             time                        2020-01-28 04:00:00
         Attributes:
             Probability methods         ['ST (Some Time)']
-            field_code                  161
+            field_code                  np.int16(161)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'ek11cloud diagnostics'
             title                       'Unknown'
   ```
@@ -1702,13 +1970,13 @@
             time                            2020-01-28 04:00:00
         Attributes:
             Probability methods             ['ST (Some Time)']
-            field_code                      161
+            field_code                      np.int16(161)
             institution                     'Met Office'
             neighbourhood_radius            '28.0 km'
-            nimrod_version                  2
-            num_model_levels                1
-            recursive_filter_alpha          0.6
-            recursive_filter_iterations     2
+            nimrod_version                  np.int16(2)
+            num_model_levels                np.int16(1)
+            recursive_filter_alpha          np.float32(0.6)
+            recursive_filter_iterations     np.int16(2)
             source                          'ek11cloud diagnostics'
             title                           'Unknown'
   ```
@@ -1726,10 +1994,10 @@
             time                            2020-01-28 04:00:00
         Attributes:
             Probability methods             ['ST (Some Time)']
-            field_code                      161
+            field_code                      np.int16(161)
             institution                     'Met Office'
-            nimrod_version                  2
-            num_model_levels                1
+            nimrod_version                  np.int16(2)
+            num_model_levels                np.int16(1)
             source                          'ek11cloud diagnostics'
             title                           'Unknown'
   ```
@@ -1746,10 +2014,10 @@
             forecast_reference_time     2020-01-28 03:00:00
             time                        2020-01-28 04:00:00
         Attributes:
-            field_code                  161
+            field_code                  np.int16(161)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'ek00cloud diagnostics'
             title                       'Unknown'
   ```
@@ -1765,10 +2033,10 @@
             forecast_reference_time                  2020-01-28 03:00:00
             time                                     2020-01-28 04:00:00
         Attributes:
-            field_code                               101
+            field_code                               np.int16(101)
             institution                              'Met Office'
-            nimrod_version                           2
-            num_model_levels                         1
+            nimrod_version                           np.int16(2)
+            num_model_levels                         np.int16(1)
             source                                   'rainfc'
             title                                    'Unknown'
   ```
@@ -1786,10 +2054,10 @@
             time                             2020-01-28 04:00:00
         Attributes:
             Probability methods              ['ST (Some Time)']
-            field_code                       101
+            field_code                       np.int16(101)
             institution                      'Met Office'
-            nimrod_version                   2
-            num_model_levels                 1
+            nimrod_version                   np.int16(2)
+            num_model_levels                 np.int16(1)
             source                           'rainfc'
             title                            'Unknown'
   ```
@@ -1805,10 +2073,10 @@
             forecast_reference_time                                2020-01-28 03:00:00
             time                                                   2020-01-28 04:00:00
         Attributes:
-            field_code                                             101
+            field_code                                             np.int16(101)
             institution                                            'Met Office'
-            nimrod_version                                         2
-            num_model_levels                                       1
+            nimrod_version                                         np.int16(2)
+            num_model_levels                                       np.int16(1)
             source                                                 'rainfc'
             title                                                  'Unknown'
   ```
@@ -1826,13 +2094,13 @@
             time                                            2020-01-28 04:00:00
         Attributes:
             Probability methods                             ['ST (Some Time)']
-            field_code                                      101
+            field_code                                      np.int16(101)
             institution                                     'Met Office'
             neighbourhood_radius                            '28.0 km'
-            nimrod_version                                  2
-            num_model_levels                                1
-            recursive_filter_alpha                          0.6
-            recursive_filter_iterations                     2
+            nimrod_version                                  np.int16(2)
+            num_model_levels                                np.int16(1)
+            recursive_filter_alpha                          np.float32(0.6)
+            recursive_filter_iterations                     np.int16(2)
             source                                          'rainfc'
             title                                           'Unknown'
   ```
@@ -1850,10 +2118,10 @@
             time                                            2020-01-28 04:00:00
         Attributes:
             Probability methods                             ['ST (Some Time)']
-            field_code                                      101
+            field_code                                      np.int16(101)
             institution                                     'Met Office'
-            nimrod_version                                  2
-            num_model_levels                                1
+            nimrod_version                                  np.int16(2)
+            num_model_levels                                np.int16(1)
             source                                          'rainfc'
             title                                           'Unknown'
   ```
@@ -1869,10 +2137,10 @@
             forecast_reference_time        2020-01-28 03:00:00
             time                           2020-01-28 04:00:00, bound=(2020-01-28 03:00:00, 2020-01-28 04:00:00)
         Attributes:
-            field_code                     61
+            field_code                     np.int16(61)
             institution                    'Met Office'
-            nimrod_version                 2
-            num_model_levels               1
+            nimrod_version                 np.int16(2)
+            num_model_levels               np.int16(1)
             processing                     ['accumulation or average']
             source                         'ek00'
             title                          'Unknown'
@@ -1891,10 +2159,10 @@
             time                        2020-01-28 04:00:00, bound=(2020-01-28 03:00:00, 2020-01-28 04:00:00)
         Attributes:
             Probability methods         ['ST (Some Time)']
-            field_code                  61
+            field_code                  np.int16(61)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             processing                  ['accumulation or average']
             source                      'ek11'
             title                       'Unknown'
@@ -1911,10 +2179,10 @@
             forecast_reference_time                      2020-01-28 03:00:00
             time                                         2020-01-28 04:00:00, bound=(2020-01-28 03:00:00, 2020-01-28 04:00:00)
         Attributes:
-            field_code                                   61
+            field_code                                   np.int16(61)
             institution                                  'Met Office'
-            nimrod_version                               2
-            num_model_levels                             1
+            nimrod_version                               np.int16(2)
+            num_model_levels                             np.int16(1)
             processing                                   ['accumulation or average']
             source                                       'ek11'
             title                                        'Unknown'
@@ -1933,14 +2201,14 @@
             time                                 2020-01-28 04:00:00, bound=(2020-01-28 03:00:00, 2020-01-28 04:00:00)
         Attributes:
             Probability methods                  ['ST (Some Time)']
-            field_code                           61
+            field_code                           np.int16(61)
             institution                          'Met Office'
             neighbourhood_radius                 '28.0 km'
-            nimrod_version                       2
-            num_model_levels                     1
+            nimrod_version                       np.int16(2)
+            num_model_levels                     np.int16(1)
             processing                           ['accumulation or average']
-            recursive_filter_alpha               0.6
-            recursive_filter_iterations          2
+            recursive_filter_alpha               np.float32(0.6)
+            recursive_filter_iterations          np.int16(2)
             source                               'ek11'
             title                                'Unknown'
   ```
@@ -1958,10 +2226,10 @@
             time                                 2020-01-28 04:00:00, bound=(2020-01-28 03:00:00, 2020-01-28 04:00:00)
         Attributes:
             Probability methods                  ['ST (Some Time)']
-            field_code                           61
+            field_code                           np.int16(61)
             institution                          'Met Office'
-            nimrod_version                       2
-            num_model_levels                     1
+            nimrod_version                       np.int16(2)
+            num_model_levels                     np.int16(1)
             processing                           ['accumulation or average']
             source                               'ek11'
             title                                'Unknown'
@@ -1980,14 +2248,14 @@
             time                               2020-01-28 04:00:00, bound=(2020-01-28 03:00:00, 2020-01-28 04:00:00)
         Attributes:
             Probability methods                ['AT (All Time)']
-            field_code                         63
+            field_code                         np.int16(63)
             institution                        'Met Office'
             neighbourhood_radius               '28.0 km'
-            nimrod_version                     2
-            num_model_levels                   1
-            probability_period_of_event        30
-            recursive_filter_alpha             0.6
-            recursive_filter_iterations        2
+            nimrod_version                     np.int16(2)
+            num_model_levels                   np.int16(1)
+            probability_period_of_event        np.int16(30)
+            recursive_filter_alpha             np.float32(0.6)
+            recursive_filter_iterations        np.int16(2)
             source                             'ek11'
             title                              'Unknown'
   ```
@@ -2005,13 +2273,13 @@
             time                               2020-01-28 04:00:00, bound=(2020-01-28 03:00:00, 2020-01-28 04:00:00)
         Attributes:
             Probability methods                ['ST (Some Time)']
-            field_code                         63
+            field_code                         np.int16(63)
             institution                        'Met Office'
             neighbourhood_radius               '28.0 km'
-            nimrod_version                     2
-            num_model_levels                   1
-            recursive_filter_alpha             0.6
-            recursive_filter_iterations        2
+            nimrod_version                     np.int16(2)
+            num_model_levels                   np.int16(1)
+            recursive_filter_alpha             np.float32(0.6)
+            recursive_filter_iterations        np.int16(2)
             source                             'ek11'
             title                              'Unknown'
   ```
@@ -2027,10 +2295,10 @@
             forecast_reference_time         2020-01-28 03:00:00
             time                            2020-01-28 04:00:00, bound=(2020-01-28 03:00:00, 2020-01-28 04:00:00)
         Attributes:
-            field_code                      63
+            field_code                      np.int16(63)
             institution                     'Met Office'
-            nimrod_version                  2
-            num_model_levels                1
+            nimrod_version                  np.int16(2)
+            num_model_levels                np.int16(1)
             source                          'ek00'
             title                           'Unknown'
   ```
@@ -2046,10 +2314,10 @@
             forecast_reference_time     2020-01-28 03:00:00
             time                        2020-01-28 04:00:00, bound=(2020-01-28 03:00:00, 2020-01-28 04:00:00)
         Attributes:
-            field_code                  218
+            field_code                  np.int16(218)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             processing                  ['accumulation or average']
             source                      'ek${M'
             title                       'Unknown'
@@ -2068,10 +2336,10 @@
             time                        2020-01-28 04:00:00, bound=(2020-01-28 03:00:00, 2020-01-28 04:00:00)
         Attributes:
             Probability methods         ['ST (Some Time)']
-            field_code                  218
+            field_code                  np.int16(218)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             processing                  ['accumulation or average']
             source                      'ek${M'
             title                       'Unknown'
@@ -2090,13 +2358,13 @@
             time                            2020-01-28 04:00:00
         Attributes:
             Probability methods             ['ST (Some Time)']
-            field_code                      421
+            field_code                      np.int16(421)
             institution                     'Met Office'
             neighbourhood_radius            '28.0 km'
-            nimrod_version                  2
-            num_model_levels                1
-            recursive_filter_alpha          0.6
-            recursive_filter_iterations     2
+            nimrod_version                  np.int16(2)
+            num_model_levels                np.int16(1)
+            recursive_filter_alpha          np.float32(0.6)
+            recursive_filter_iterations     np.int16(2)
             source                          'rainfc'
             title                           'Unknown'
   ```
@@ -2112,10 +2380,10 @@
             forecast_reference_time                2020-01-28 03:00:00
             time                                   2020-01-28 04:00:00
         Attributes:
-            field_code                             12
+            field_code                             np.int16(12)
             institution                            'Met Office'
-            nimrod_version                         2
-            num_model_levels                       1
+            nimrod_version                         np.int16(2)
+            num_model_levels                       np.int16(1)
             source                                 'ek00'
             title                                  'Unknown'
   ```
@@ -2134,10 +2402,10 @@
             time                        2020-01-28 04:00:00
         Attributes:
             Probability methods         ['ST (Some Time)']
-            field_code                  58
+            field_code                  np.int16(58)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'UM?'
             title                       'Unknown'
   ```
@@ -2154,10 +2422,10 @@
             height                      1.65 m
             time                        2020-01-28 04:00:00
         Attributes:
-            field_code                  155
+            field_code                  np.int16(155)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'UM?'
             title                       'Unknown'
   ```
@@ -2176,10 +2444,10 @@
             time                        2020-01-28 04:00:00
         Attributes:
             Probability methods         ['ST (Some Time)']
-            field_code                  155
+            field_code                  np.int16(155)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'UM?'
             title                       'Unknown'
   ```
@@ -2196,10 +2464,10 @@
             height                      10.0 m
             time                        2020-01-28 04:00:00
         Attributes:
-            field_code                  806
+            field_code                  np.int16(806)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'downscaled UM 10m wind'
             title                       'Unknown'
   ```
@@ -2216,10 +2484,10 @@
             height                      10.0 m
             time                        2020-01-28 04:00:00, bound=(2020-01-28 03:00:00, 2020-01-28 04:00:00)
         Attributes:
-            field_code                  817
+            field_code                  np.int16(817)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'ek00'
             title                       'Unknown'
   ```
@@ -2238,13 +2506,13 @@
             time                            2020-01-28 04:00:00, bound=(2020-01-28 03:00:00, 2020-01-28 04:00:00)
         Attributes:
             Probability methods             ['SW (Some Where)']
-            field_code                      817
+            field_code                      np.int16(817)
             institution                     'Met Office'
             neighbourhood_radius            '28.0 km'
-            nimrod_version                  2
-            num_model_levels                1
-            recursive_filter_alpha          0.5
-            recursive_filter_iterations     2
+            nimrod_version                  np.int16(2)
+            num_model_levels                np.int16(1)
+            recursive_filter_alpha          np.float32(0.5)
+            recursive_filter_iterations     np.int16(2)
             source                          'ek11'
             threshold_vicinity_radius       '32.0 km'
             title                           'Unknown'
@@ -2264,10 +2532,10 @@
             time                            2020-01-28 04:00:00, bound=(2020-01-28 03:00:00, 2020-01-28 04:00:00)
         Attributes:
             Probability methods             ['ST (Some Time)']
-            field_code                      817
+            field_code                      np.int16(817)
             institution                     'Met Office'
-            nimrod_version                  2
-            num_model_levels                1
+            nimrod_version                  np.int16(2)
+            num_model_levels                np.int16(1)
             source                          'ek11'
             title                           'Unknown'
   ```
@@ -2284,10 +2552,10 @@
             height                      10.0 m
             time                        2020-01-28 04:00:00
         Attributes:
-            field_code                  804
+            field_code                  np.int16(804)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'downscaled UM 10m wind'
             title                       'Unknown'
   ```
@@ -2306,10 +2574,10 @@
             time                        2020-01-28 04:00:00
         Attributes:
             Probability methods         ['ST (Some Time)']
-            field_code                  804
+            field_code                  np.int16(804)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'downscaled UM 10m wind'
             title                       'Unknown'
   ```
@@ -2326,10 +2594,10 @@
             height                             10.0 m
             time                               2020-01-28 04:00:00
         Attributes:
-            field_code                         804
+            field_code                         np.int16(804)
             institution                        'Met Office'
-            nimrod_version                     2
-            num_model_levels                   1
+            nimrod_version                     np.int16(2)
+            num_model_levels                   np.int16(1)
             source                             'downscaled UM 10m wind'
             title                              'Unknown'
   ```
@@ -2348,13 +2616,13 @@
             time                        2020-01-28 04:00:00
         Attributes:
             Probability methods         ['SW (Some Where)']
-            field_code                  804
+            field_code                  np.int16(804)
             institution                 'Met Office'
             neighbourhood_radius        '28.0 km'
-            nimrod_version              2
-            num_model_levels            1
-            recursive_filter_alpha      0.5
-            recursive_filter_iterations 2
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
+            recursive_filter_alpha      np.float32(0.5)
+            recursive_filter_iterations np.int16(2)
             source                      'downscaled UM 10m wind'
             threshold_vicinity_radius   '32.0 km'
             title                       'Unknown'
@@ -2374,10 +2642,10 @@
             time                        2020-01-28 04:00:00
         Attributes:
             Probability methods         ['ST (Some Time)']
-            field_code                  804
+            field_code                  np.int16(804)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'downscaled UM 10m wind'
             title                       'Unknown'
   ```
@@ -2394,10 +2662,10 @@
             height                      10.0 m
             time                        2020-01-28 04:00:00
         Attributes:
-            field_code                  5
+            field_code                  np.int16(5)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'umek'
             title                       'Unknown'
   ```
@@ -2414,10 +2682,10 @@
             height                      10.0 m
             time                        2020-01-28 04:00:00
         Attributes:
-            field_code                  6
+            field_code                  np.int16(6)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'umek'
             title                       'Unknown'
   ```
@@ -2436,15 +2704,21 @@
             time                        2020-01-28 04:00:00, bound=(2020-01-28 03:00:00, 2020-01-28 04:00:00)
         Attributes:
             Probability methods         ['ST (Some Time)']
-            field_code                  817
+            field_code                  np.int16(817)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'ek11'
             title                       'Unknown'
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -2465,16 +2739,22 @@
             forecast_reference_time     2020-01-28 05:00:00
             realization                 4
         Attributes:
-            field_code                  214
+            field_code                  np.int16(214)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             processing                  ['accumulation or average']
             source                      'STEPS'
             title                       'Unknown'
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -2494,16 +2774,22 @@
             realization                 5
             time                        2020-01-28 07:00:00, bound=(2020-01-28 06:00:00, 2020-01-28 07:00:00)
         Attributes:
-            field_code                  214
+            field_code                  np.int16(214)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             processing                  ['accumulation or average']
             source                      'STEPS'
             title                       'Unknown'
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -2524,10 +2810,10 @@
             realization                 0
             time                        2020-01-28 04:00:00
         Attributes:
-            field_code                  79
+            field_code                  np.int16(79)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            57
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(57)
             source                      'ek'
             title                       'Unknown'
   ```
@@ -2545,15 +2831,21 @@
             realization                 0
             time                        2020-01-28 04:00:00
         Attributes:
-            field_code                  79
+            field_code                  np.int16(79)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            26
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(26)
             source                      'ek'
             title                       'Unknown'
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -2573,10 +2865,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  87
+            field_code                  np.int16(87)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'ek'
             title                       'Unknown'
   ```
@@ -2593,10 +2885,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  88
+            field_code                  np.int16(88)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'ek'
             title                       'Unknown'
   ```
@@ -2613,11 +2905,11 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  88
+            field_code                  np.int16(88)
             institution                 'Met Office'
             neighbourhood_radius        '10.0 km'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'CDP'
             title                       'Unknown'
   ```
@@ -2634,11 +2926,11 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  87
+            field_code                  np.int16(87)
             institution                 'Met Office'
             neighbourhood_radius        '10.0 km'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'CDP'
             title                       'Unknown'
   ```
@@ -2657,10 +2949,10 @@
             realization                     0
             time                            2020-01-28 05:00:00
         Attributes:
-            field_code                      172
+            field_code                      np.int16(172)
             institution                     'Met Office'
-            nimrod_version                  2
-            num_model_levels                1
+            nimrod_version                  np.int16(2)
+            num_model_levels                np.int16(1)
             source                          'ek00cloud diagnostics'
             title                           'Unknown'
   ```
@@ -2677,10 +2969,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  207
+            field_code                  np.int16(207)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'ek00cloud diagnostics'
             title                       'Unknown'
   ```
@@ -2698,15 +2990,21 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  161
+            field_code                  np.int16(161)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'ek00cloud diagnostics'
             title                       'Unknown'
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -2727,10 +3025,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  502
+            field_code                  np.int16(502)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      ''
             title                       'Unknown'
   ```
@@ -2747,10 +3045,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  503
+            field_code                  np.int16(503)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      ''
             title                       'Unknown'
   ```
@@ -2767,10 +3065,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  506
+            field_code                  np.int16(506)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      ''
             title                       'Unknown'
   ```
@@ -2787,10 +3085,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  507
+            field_code                  np.int16(507)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      ''
             title                       'Unknown'
   ```
@@ -2809,13 +3107,13 @@
             time                               2020-01-28 05:00:00
         Attributes:
             Probability methods                ['ST (Some Time)']
-            field_code                         422
+            field_code                         np.int16(422)
             institution                        'Met Office'
             neighbourhood_radius               '60.0 km'
-            nimrod_version                     2
-            num_model_levels                   1
-            recursive_filter_alpha             0.6
-            recursive_filter_iterations        2
+            nimrod_version                     np.int16(2)
+            num_model_levels                   np.int16(1)
+            recursive_filter_alpha             np.float32(0.6)
+            recursive_filter_iterations        np.int16(2)
             source                             ''
             threshold_vicinity_radius          '1.0 km'
             title                              'Unknown'
@@ -2833,10 +3131,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  511
+            field_code                  np.int16(511)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      ''
             title                       'Unknown'
   ```
@@ -2853,10 +3151,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  512
+            field_code                  np.int16(512)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      ''
             title                       'Unknown'
   ```
@@ -2874,10 +3172,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  422
+            field_code                  np.int16(422)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'ek'
             title                       'Unknown'
   ```
@@ -2895,15 +3193,21 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  422
+            field_code                  np.int16(422)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'ek'
             title                       'Unknown'
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -2924,10 +3228,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  501
+            field_code                  np.int16(501)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      ''
             title                       'Unknown'
   ```
@@ -2945,10 +3249,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  504
+            field_code                  np.int16(504)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      ''
             title                       'Unknown'
   ```
@@ -2966,10 +3270,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  508
+            field_code                  np.int16(508)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      ''
             title                       'Unknown'
   ```
@@ -2987,10 +3291,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  514
+            field_code                  np.int16(514)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      ''
             title                       'Unknown'
   ```
@@ -3008,10 +3312,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  509
+            field_code                  np.int16(509)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      ''
             title                       'Unknown'
   ```
@@ -3029,15 +3333,21 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  800
+            field_code                  np.int16(800)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'rainfc'
             title                       'Unknown'
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -3057,10 +3367,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  206
+            field_code                  np.int16(206)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3077,10 +3387,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  50
+            field_code                  np.int16(50)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3097,10 +3407,10 @@
             realization                      0
             time                             2020-01-28 05:00:00
         Attributes:
-            field_code                       101
+            field_code                       np.int16(101)
             institution                      'Met Office'
-            nimrod_version                   2
-            num_model_levels                 1
+            nimrod_version                   np.int16(2)
+            num_model_levels                 np.int16(1)
             source                           'rainfc'
             title                            'Unknown'
   ```
@@ -3117,10 +3427,10 @@
             realization                      0
             time                             2020-01-28 05:00:00
         Attributes:
-            field_code                       101
+            field_code                       np.int16(101)
             institution                      'Met Office'
-            nimrod_version                   2
-            num_model_levels                 1
+            nimrod_version                   np.int16(2)
+            num_model_levels                 np.int16(1)
             processing                       ['warm bias applied']
             source                           'rainfc'
             title                            'Unknown'
@@ -3138,10 +3448,10 @@
             realization                      0
             time                             2020-01-28 05:00:00
         Attributes:
-            field_code                       101
+            field_code                       np.int16(101)
             institution                      'Met Office'
-            nimrod_version                   2
-            num_model_levels                 1
+            nimrod_version                   np.int16(2)
+            num_model_levels                 np.int16(1)
             processing                       ['cold bias applied']
             source                           'rainfc'
             title                            'Unknown'
@@ -3159,10 +3469,10 @@
             realization                     0
             time                            2020-01-28 05:00:00
         Attributes:
-            field_code                      102
+            field_code                      np.int16(102)
             institution                     'Met Office'
-            nimrod_version                  2
-            num_model_levels                1
+            nimrod_version                  np.int16(2)
+            num_model_levels                np.int16(1)
             source                          'rainfc'
             title                           'Unknown'
   ```
@@ -3179,10 +3489,10 @@
             realization                     0
             time                            2020-01-28 05:00:00
         Attributes:
-            field_code                      102
+            field_code                      np.int16(102)
             institution                     'Met Office'
-            nimrod_version                  2
-            num_model_levels                1
+            nimrod_version                  np.int16(2)
+            num_model_levels                np.int16(1)
             processing                      ['warm bias applied']
             source                          'rainfc'
             title                           'Unknown'
@@ -3200,16 +3510,22 @@
             realization                     0
             time                            2020-01-28 05:00:00
         Attributes:
-            field_code                      102
+            field_code                      np.int16(102)
             institution                     'Met Office'
-            nimrod_version                  2
-            num_model_levels                1
+            nimrod_version                  np.int16(2)
+            num_model_levels                np.int16(1)
             processing                      ['cold bias applied']
             source                          'rainfc'
             title                           'Unknown'
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -3229,15 +3545,21 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  300
+            field_code                  np.int16(300)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'ek'
             title                       'Unknown'
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -3257,10 +3579,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  63
+            field_code                  np.int16(63)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3277,10 +3599,10 @@
             realization                 0
             time                        2020-01-28 05:00:00, bound=(2020-01-28 04:00:00, 2020-01-28 05:00:00)
         Attributes:
-            field_code                  213
+            field_code                  np.int16(213)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             processing                  ['minimum in period']
             source                      'ek'
             title                       'Unknown'
@@ -3298,16 +3620,22 @@
             realization                 0
             time                        2020-01-28 05:00:00, bound=(2020-01-28 04:00:00, 2020-01-28 05:00:00)
         Attributes:
-            field_code                  213
+            field_code                  np.int16(213)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             processing                  ['maximum in period']
             source                      'ek'
             title                       'Unknown'
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -3328,16 +3656,22 @@
             forecast_reference_time     2020-01-28 03:00:00
             realization                 0
         Attributes:
-            field_code                  61
+            field_code                  np.int16(61)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             processing                  ['accumulation or average']
             source                      'ek'
             title                       'Unknown'
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -3357,10 +3691,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  28
+            field_code                  np.int16(28)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'rainfc'
             title                       'Unknown'
   ```
@@ -3377,10 +3711,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  28
+            field_code                  np.int16(28)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             processing                  ['warm bias applied']
             source                      'rainfc'
             title                       'Unknown'
@@ -3398,10 +3732,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  28
+            field_code                  np.int16(28)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             processing                  ['cold bias applied']
             source                      'rainfc'
             title                       'Unknown'
@@ -3419,10 +3753,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  27
+            field_code                  np.int16(27)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'rainfc'
             title                       'Unknown'
   ```
@@ -3439,10 +3773,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  27
+            field_code                  np.int16(27)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             processing                  ['warm bias applied']
             source                      'rainfc'
             title                       'Unknown'
@@ -3460,10 +3794,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  27
+            field_code                  np.int16(27)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             processing                  ['cold bias applied']
             source                      'rainfc'
             title                       'Unknown'
@@ -3481,10 +3815,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  421
+            field_code                  np.int16(421)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'rainfc'
             title                       'Unknown'
   ```
@@ -3501,10 +3835,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  421
+            field_code                  np.int16(421)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             processing                  ['warm bias applied']
             source                      'rainfc'
             title                       'Unknown'
@@ -3522,16 +3856,22 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  421
+            field_code                  np.int16(421)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             processing                  ['cold bias applied']
             source                      'rainfc'
             title                       'Unknown'
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -3551,10 +3891,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  205
+            field_code                  np.int16(205)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3571,15 +3911,21 @@
             realization                    0
             time                           2020-01-28 05:00:00
         Attributes:
-            field_code                     12
+            field_code                     np.int16(12)
             institution                    'Met Office'
-            nimrod_version                 2
-            num_model_levels               1
+            nimrod_version                 np.int16(2)
+            num_model_levels               np.int16(1)
             source                         'ek'
             title                          'Unknown'
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -3599,10 +3945,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  91
+            field_code                  np.int16(91)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3619,10 +3965,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  92
+            field_code                  np.int16(92)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3639,10 +3985,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  303
+            field_code                  np.int16(303)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3659,10 +4005,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  91
+            field_code                  np.int16(91)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3679,10 +4025,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  91
+            field_code                  np.int16(91)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3699,10 +4045,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  91
+            field_code                  np.int16(91)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3719,15 +4065,21 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  92
+            field_code                  np.int16(92)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'ek'
             title                       'Unknown'
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -3747,10 +4099,10 @@
             realization                 0
             time                        2020-01-28 05:00:00, bound=(2020-01-28 04:00:00, 2020-01-28 05:00:00)
         Attributes:
-            field_code                  96
+            field_code                  np.int16(96)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3767,10 +4119,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  96
+            field_code                  np.int16(96)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3787,15 +4139,21 @@
             realization                 0
             time                        2020-01-28 05:00:00, bound=(2020-01-28 04:00:00, 2020-01-28 05:00:00)
         Attributes:
-            field_code                  96
+            field_code                  np.int16(96)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'ek'
             title                       'Unknown'
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -3816,15 +4174,23 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  480
+            field_code                  np.int16(480)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'ek'
             title                       'Unknown'
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -3845,15 +4211,21 @@
             realization                 0
             time                        2020-01-28 04:00:00
         Attributes:
-            field_code                  8
+            field_code                  np.int16(8)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            57
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(57)
             source                      'ek'
             title                       'Unknown'
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -3874,15 +4246,21 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  8
+            field_code                  np.int16(8)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'UM?'
             title                       'Unknown'
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -3902,10 +4280,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  121
+            field_code                  np.int16(121)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3922,10 +4300,10 @@
             realization                 0
             time                        2020-01-28 05:00:00, bound=(2020-01-28 04:00:00, 2020-01-28 05:00:00)
         Attributes:
-            field_code                  185
+            field_code                  np.int16(185)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             processing                  ['accumulation or average']
             source                      'ek'
             title                       'Unknown'
@@ -3943,15 +4321,21 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  100
+            field_code                  np.int16(100)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'rainfc'
             title                       'Unknown'
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -3972,10 +4356,10 @@
             realization                 0
             time                        2020-01-28 04:00:00
         Attributes:
-            field_code                  191
+            field_code                  np.int16(191)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            4
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(4)
             source                      'ek'
             title                       'Unknown'
   ```
@@ -3993,10 +4377,10 @@
             realization                 0
             time                        2020-01-28 04:00:00
         Attributes:
-            field_code                  190
+            field_code                  np.int16(190)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            4
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(4)
             source                      'ek'
             title                       'Unknown'
   ```
@@ -4014,10 +4398,10 @@
             realization                 0
             time                        2020-01-28 04:00:00
         Attributes:
-            field_code                  192
+            field_code                  np.int16(192)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            4
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(4)
             source                      'ek'
             title                       'Unknown'
   ```
@@ -4035,10 +4419,10 @@
             realization                 0
             time                        2020-01-28 04:00:00
         Attributes:
-            field_code                  193
+            field_code                  np.int16(193)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            4
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(4)
             source                      'ek'
             title                       'Unknown'
   ```
@@ -4046,6 +4430,8 @@
   
   
   ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
   
   IrisNimrodTranslationWarning: Unmatched vertical coord types 12 != 0. Assuming 12
   
@@ -4069,10 +4455,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  18
+            field_code                  np.int16(18)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'ek'
             title                       'Unknown'
   ```
@@ -4091,10 +4477,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  301
+            field_code                  np.int16(301)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'ek'
             title                       'Unknown'
   ```
@@ -4113,15 +4499,21 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  302
+            field_code                  np.int16(302)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'ek'
             title                       'Unknown'
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -4142,10 +4534,10 @@
             realization                 0
             time                        2020-01-28 05:00:00, bound=(2020-01-28 04:00:00, 2020-01-28 05:00:00)
         Attributes:
-            field_code                  58
+            field_code                  np.int16(58)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             processing                  ['minimum in period']
             source                      'ek'
             title                       'Unknown'
@@ -4164,10 +4556,10 @@
             realization                 0
             time                        2020-01-28 05:00:00, bound=(2020-01-28 04:00:00, 2020-01-28 05:00:00)
         Attributes:
-            field_code                  58
+            field_code                  np.int16(58)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             processing                  ['maximum in period']
             source                      'ek'
             title                       'Unknown'
@@ -4186,10 +4578,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  58
+            field_code                  np.int16(58)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'UM?'
             title                       'Unknown'
   ```
@@ -4207,15 +4599,21 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  154
+            field_code                  np.int16(154)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'UM?'
             title                       'Unknown'
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -4236,10 +4634,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  122
+            field_code                  np.int16(122)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'ek'
             title                       'Unknown'
   ```
@@ -4257,10 +4655,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  133
+            field_code                  np.int16(133)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'ek'
             title                       'Unknown'
   ```
@@ -4278,10 +4676,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  221
+            field_code                  np.int16(221)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'ek'
             title                       'Unknown'
   ```
@@ -4299,10 +4697,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  155
+            field_code                  np.int16(155)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'UM?'
             title                       'Unknown'
   ```
@@ -4320,15 +4718,21 @@
             realization                  0
             time                         2020-01-28 05:00:00
         Attributes:
-            field_code                   156
+            field_code                   np.int16(156)
             institution                  'Met Office'
-            nimrod_version               2
-            num_model_levels             1
+            nimrod_version               np.int16(2)
+            num_model_levels             np.int16(1)
             source                       'UM?'
             title                        'Unknown'
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -4349,10 +4753,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  804
+            field_code                  np.int16(804)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             processing                  ['scaled to UM resolution']
             source                      'wspd'
             title                       'Unknown'
@@ -4371,10 +4775,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  804
+            field_code                  np.int16(804)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'downscaled UM 10m wind'
             title                       'Unknown'
   ```
@@ -4392,10 +4796,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  806
+            field_code                  np.int16(806)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'downscaled UM 10m wind'
             title                       'Unknown'
   ```
@@ -4413,10 +4817,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  824
+            field_code                  np.int16(824)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'UMFC shear gust'
             title                       'Unknown'
   ```
@@ -4434,10 +4838,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  817
+            field_code                  np.int16(817)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'ek'
             title                       'Unknown'
   ```
@@ -4455,16 +4859,22 @@
             realization                 0
             time                        2020-01-28 05:00:00, bound=(2020-01-28 04:00:00, 2020-01-28 05:00:00)
         Attributes:
-            field_code                  817
+            field_code                  np.int16(817)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             processing                  ['maximum in period']
             source                      'ek'
             title                       'Unknown'
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -4485,10 +4895,10 @@
             realization                 0
             time                        2020-01-28 03:15:00
         Attributes:
-            field_code                  5
+            field_code                  np.int16(5)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'ek'
             title                       'Unknown'
   ```
@@ -4506,15 +4916,21 @@
             realization                 0
             time                        2020-01-28 03:15:00
         Attributes:
-            field_code                  6
+            field_code                  np.int16(6)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'ek'
             title                       'Unknown'
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -4535,10 +4951,10 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  5
+            field_code                  np.int16(5)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'downscaled UM level1 u&v'
             title                       'Unknown'
   ```
@@ -4556,15 +4972,21 @@
             realization                 0
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  6
+            field_code                  np.int16(6)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      'downscaled UM level1 u&v'
             title                       'Unknown'
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -4584,10 +5006,10 @@
             realization                 1
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  505
+            field_code                  np.int16(505)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      ''
             title                       'Unknown'
   ```
@@ -4604,10 +5026,10 @@
             realization                 1
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  515
+            field_code                  np.int16(515)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      ''
             title                       'Unknown'
   ```
@@ -4625,10 +5047,10 @@
             realization                 1
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  515
+            field_code                  np.int16(515)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      ''
             title                       'Unknown'
   ```
@@ -4645,10 +5067,10 @@
             realization                 1
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  516
+            field_code                  np.int16(516)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      ''
             title                       'Unknown'
   ```
@@ -4665,10 +5087,10 @@
             realization                 1
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  517
+            field_code                  np.int16(517)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      ''
             title                       'Unknown'
   ```
@@ -4685,15 +5107,21 @@
             realization                 1
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  513
+            field_code                  np.int16(513)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      ''
             title                       'Unknown'
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -4713,16 +5141,22 @@
             realization                 7
             time                        2020-01-28 12:00:00, bound=(2020-01-28 09:00:00, 2020-01-28 12:00:00)
         Attributes:
-            field_code                  61
+            field_code                  np.int16(61)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             processing                  ['accumulation or average']
             source                      'ek'
             title                       'Unknown'
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -4743,15 +5177,21 @@
             height                      1.65 m
             time                        2020-01-28 05:00:00
         Attributes:
-            field_code                  29
+            field_code                  np.int16(29)
             institution                 'Met Office'
-            nimrod_version              2
-            num_model_levels            1
+            nimrod_version              np.int16(2)
+            num_model_levels            np.int16(1)
             source                      '1.5km UK UM'
             title                       'Unknown'
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -4791,8 +5231,8 @@
             DOMAIN_dimensions_ids            array([1, 2], dtype=int32)
             DOMAIN_halo_size_end             array([0, 0], dtype=int32)
             DOMAIN_halo_size_start           array([0, 0], dtype=int32)
-            DOMAIN_number                    0
-            DOMAIN_number_total              1
+            DOMAIN_number                    np.int32(0)
+            DOMAIN_number_total              np.int32(1)
             DOMAIN_position_first            array([1, 1], dtype=int32)
             DOMAIN_position_last             array([182, 149], dtype=int32)
             DOMAIN_size_global               array([182, 149], dtype=int32)
@@ -4802,8 +5242,8 @@
             TimeStamp                        '2008-SEP-09 11:18:37 GMT+0000'
             file_name                        'ORCA2_1d_00010101_00010101_grid_T_0000.nc'
             history                          'Mon Apr  2 10:25:46 2012: /project/ukmo/rhel6/nco/bin/ncks -v votemper,deptht_bounds,nav_lat,nav_lon,areat,latt_bounds,lont_bounds ...'
-            interval_operation               5760.0
-            interval_write                   86400.0
+            interval_operation               np.float32(5760.0)
+            interval_write                   np.float32(86400.0)
             production                       'An IPSL model'
             short_name                       'votemper'
   ```
@@ -4828,7 +5268,7 @@
             0                           time: mean (interval: 6 minutes)
         Attributes:
             Conventions                 'CF-1.0'
-            cmor_version                0.96
+            cmor_version                np.float32(0.96)
             comment                     'This run was initiated from the end of the corresponding 20C3M run of CCSR/NIES/FRCGC ...'
             contact                     'Seita Emori (emori@nies.go.jp)'
             experiment_id               '720 ppm stabilization experiment (SRES A1B)'
@@ -4837,7 +5277,7 @@
             original_name               '10m zonal wind'
             original_units              'm/s'
             project_id                  'IPCC Fourth Assessment'
-            realization                 1
+            realization                 np.int32(1)
             references                  'K-1 Coupled GCM Description (K-1 Technical Report No.1) in preparation'
             source                      'MIROC3.2 (2004): atmosphere: AGCM (AGCM5.7b, T106 L56); ocean & sea ice: ...'
             table_id                    'Table A2 (17 November 2004)'
@@ -4929,18 +5369,6 @@
   
   
   ```
-      Logarithm of surface pressure / (no_unit) (time: 1; model_level_number: 60; latitude: 181; longitude: 360)
-        Dimension coordinates:
-            time                                   x                      -             -               -
-            model_level_number                     -                      x             -               -
-            latitude                               -                      -             x               -
-            longitude                              -                      -             -               x
-        Attributes:
-            Conventions                       'CF-1.0'
-            history                           '2009-08-25 13:46:31 GMT by mars2netcdf-0.92'
-  ```
-  
-  ```
       Carbon Dioxide / (kg kg**-1)        (time: 1; model_level_number: 60; latitude: 181; longitude: 360)
         Dimension coordinates:
             time                             x                      -             -               -
@@ -4952,6 +5380,18 @@
             history                     '2009-08-25 13:46:31 GMT by mars2netcdf-0.92'
   ```
   
+  ```
+      Logarithm of surface pressure / (no_unit) (time: 1; model_level_number: 60; latitude: 181; longitude: 360)
+        Dimension coordinates:
+            time                                   x                      -             -               -
+            model_level_number                     -                      x             -               -
+            latitude                               -                      -             x               -
+            longitude                              -                      -             -               x
+        Attributes:
+            Conventions                       'CF-1.0'
+            history                           '2009-08-25 13:46:31 GMT by mars2netcdf-0.92'
+  ```
+  
   
   
   
@@ -4961,24 +5401,15 @@
   
   
   ```
-      Max air temperature at 1.5m / (K)   (time: 1; -- : 23; sample number: 10000)
+      realization weights / (unknown)     (sample number: 10000)
         Dimension coordinates:
-            time                             x       -                  -
-            sample number                    -       -                  x
-        Auxiliary coordinates:
-            region                           -       x                  -
-        Cell methods:
-            0                           time: maximum within days
-            1                           time: mean within years
-            2                           time: mean over years
+            sample number                             x
         Attributes:
             Conventions                 'CF-1.0'
-            base_units                  'K'
-            comment                     'Anomaly of 30-year average of monthly/seasonal/annual average of daily ...'
             history                     '12/07/2007: MAA CREATE_PROBDF_FILE: Version Beta'
             institution                 'Met Office Hadley Centre'
+            invalid_standard_name       'realization_weights'
             meaning_period              'sep'
-            realization_weights         'weights'
             references                  'Murphy, J.M., B. B. B. Booth, M. Collins, G. R. Harris, D. M. H. Sexton ...'
             scenario                    'IPCC SRES A1B'
             source                      'Probabilistic climate prediction based on family of Met Office Hadley Centre ...'
@@ -5009,15 +5440,24 @@
   ```
   
   ```
-      realization weights / (unknown)     (sample number: 10000)
+      Max air temperature at 1.5m / (K)   (time: 1; -- : 23; sample number: 10000)
         Dimension coordinates:
-            sample number                             x
+            time                             x       -                  -
+            sample number                    -       -                  x
+        Auxiliary coordinates:
+            region                           -       x                  -
+        Cell methods:
+            0                           time: maximum within days
+            1                           time: mean within years
+            2                           time: mean over years
         Attributes:
             Conventions                 'CF-1.0'
+            base_units                  'K'
+            comment                     'Anomaly of 30-year average of monthly/seasonal/annual average of daily ...'
             history                     '12/07/2007: MAA CREATE_PROBDF_FILE: Version Beta'
             institution                 'Met Office Hadley Centre'
-            invalid_standard_name       'realization_weights'
             meaning_period              'sep'
+            realization_weights         'weights'
             references                  'Murphy, J.M., B. B. B. Booth, M. Collins, G. R. Harris, D. M. H. Sexton ...'
             scenario                    'IPCC SRES A1B'
             source                      'Probabilistic climate prediction based on family of Met Office Hadley Centre ...'
@@ -5031,19 +5471,6 @@
   #### [NetCDF/label_and_climate/small_FC_167_mon_19601101.nc](test_data/NetCDF/label_and_climate/small_FC_167_mon_19601101.nc)
 
   
-  
-  ```
-      time_bnd / (hours)                  (-- : 2; -- : 2)
-        Attributes:
-            Comment                     'Data interpolated from original model grid into a regular grid. Data restrictions: ...'
-            Conventions                 'CF-1.0'
-            Created                     'Thu Apr 16 14:36:57 2009'
-            Generator                   'SeasPy v1.1'
-            NCO                         '4.1.0'
-            References                  'http://www.ecmwf.int/research/EU_projects/ENSEMBLES/index.html, http:/ ...'
-            Title                       'ENSEMBLES project'
-            history                     'Thu Nov 29 14:26:19 2012: /project/ukmo/rhel6/nco/bin/ncks -d time,0,1 ...'
-  ```
   
   ```
       air_temperature / (K)               (-- : 2; -- : 21; -- : 73; longitude: 144)
@@ -5078,8 +5505,6 @@
   
   ```
   
-  IrisCfNonSpanningVarWarning: Ignoring variable 'time_bnd' referenced by variable 'tas': Dimensions ('time', 'time_bnd') do not span ('time', 'ensemble', 'latitude', 'longitude')
-  
   _WarnComboDefaultingLoad: Gracefully filling 'latitude' dimension coordinate masked points
   
   _WarnComboDefaultingCfLoad: Failed to create 'latitude' dimension coordinate: The 'latitude' DimCoord points array must be strictly monotonic.
@@ -5110,6 +5535,12 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -5199,10 +5630,10 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
             creator_email               'sat_systems@metoffice.gov.uk'
             creator_name                'Satellite Applications, Met Office'
             creator_type                'group'
-            geospatial_lat_max          0.0
-            geospatial_lat_min          0.0
-            geospatial_lon_max          0.0
-            geospatial_lon_min          0.0
+            geospatial_lat_max          np.float32(0.0)
+            geospatial_lat_min          np.float32(0.0)
+            geospatial_lon_max          np.float32(0.0)
+            geospatial_lon_min          np.float32(0.0)
             history                     'Created: 2016-05-23T09:40:00Z'
             institution                 'Met Office, UK'
             instrument                  'SEVIRI'
@@ -5215,6 +5646,12 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -5236,10 +5673,10 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
             creator_email               'sat_systems@metoffice.gov.uk'
             creator_name                'Satellite Applications, Met Office'
             creator_type                'group'
-            geospatial_lat_max          2.2e-44
-            geospatial_lat_min          0.0
-            geospatial_lon_max          0.0
-            geospatial_lon_min          0.0
+            geospatial_lat_max          np.float32(2.2e-44)
+            geospatial_lat_min          np.float32(0.0)
+            geospatial_lon_max          np.float32(0.0)
+            geospatial_lon_min          np.float32(0.0)
             history                     'Created: 2016-05-23T09:40:00Z'
             institution                 'Met Office, UK'
             instrument                  'SEVIRI'
@@ -5252,6 +5689,12 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -5296,6 +5739,12 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -5375,10 +5824,10 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
             creator_email               'sat_systems@metoffice.gov.uk'
             creator_name                'Satellite Applications, Met Office'
             creator_type                'group'
-            geospatial_lat_max          2.2e-44
-            geospatial_lat_min          0.0
-            geospatial_lon_max          0.0
-            geospatial_lon_min          0.0
+            geospatial_lat_max          np.float32(2.2e-44)
+            geospatial_lat_min          np.float32(0.0)
+            geospatial_lon_max          np.float32(0.0)
+            geospatial_lon_min          np.float32(0.0)
             history                     'Created: 2016-05-23T09:40:00Z'
             institution                 'Met Office, UK'
             instrument                  'SEVIRI'
@@ -5392,6 +5841,12 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [NetCDF/testing/cell_methods.nc](test_data/NetCDF/testing/cell_methods.nc)
@@ -5399,27 +5854,21 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   
   
   ```
-      cube_maximum / (unknown)            (time: 1)
+      cube_interval_1 / (unknown)         (time: 1; latitude: 2; longitude: 2)
         Dimension coordinates:
-            time                             x
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
         Cell methods:
-            0                           time: maximum
+            0                           latitude: longitude: mean (interval: 0.1 degrees interval: 0.1 degrees)
   ```
   
   ```
-      cube_minimum / (unknown)            (time: 1)
+      cube_median / (unknown)             (time: 1)
         Dimension coordinates:
             time                             x
         Cell methods:
-            0                           time: minimum
-  ```
-  
-  ```
-      cube_mean / (unknown)               (time: 1)
-        Dimension coordinates:
-            time                             x
-        Cell methods:
-            0                           time: mean
+            0                           time: median
   ```
   
   ```
@@ -5435,11 +5884,24 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   ```
-      cube_point / (unknown)              (time: 1)
+      cube_axes_4 / (unknown)             (time: 1; latitude: 2; longitude: 2)
         Dimension coordinates:
-            time                             x
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
         Cell methods:
-            0                           time: point
+            0                           latitude: longitude: mean
+            1                           time: maximum
+  ```
+  
+  ```
+      cube_interval_2 / (unknown)         (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            0                           latitude: longitude: mean (interval: 0.1 degree_n interval: 0.2 degree_e)
   ```
   
   ```
@@ -5455,64 +5917,23 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   ```
-      cube_mix_0 / (unknown)              (time: 1; latitude: 2; longitude: 2)
+      cube_comment_2 / (unknown)          (time: 1; latitude: 2; longitude: 2)
         Dimension coordinates:
             time                             x            -             -
             latitude                         -            x             -
             longitude                        -            -             x
         Cell methods:
-            0                           time: mean (interval: 1 day comment: daily mean time)
+            0                           latitude: longitude: mean (this is a shared comment this is a shared comment)
   ```
   
   ```
-      cube_comment_1 / (unknown)          (time: 1; latitude: 2; longitude: 2)
+      cube_comment_3 / (unknown)          (time: 1; latitude: 2; longitude: 2)
         Dimension coordinates:
             time                             x            -             -
             latitude                         -            x             -
             longitude                        -            -             x
         Cell methods:
-            0                           time: mean (this is a time comment)
-  ```
-  
-  ```
-      cube_comment_0 / (unknown)          (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            0                           time: mean (this is a time comment)
-  ```
-  
-  ```
-      cube_axes_1 / (unknown)             (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            0                           time: latitude: longitude: mean
-  ```
-  
-  ```
-      cube_interval_1 / (unknown)         (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            0                           latitude: longitude: mean (interval: 0.1 degrees interval: 0.1 degrees)
-  ```
-  
-  ```
-      cube_mix_2 / (unknown)              (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            0                           latitude: longitude: mean (interval: 0.1 degree_n interval: 0.2 degree_e comment: area-weighted comment: area-weighted)
-            1                           time: sum (interval: 7 days comment: weekly sum)
+            0                           latitude: longitude: mean (this a lat comment this is a lon comment)
   ```
   
   ```
@@ -5527,42 +5948,21 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   ```
-      cube_interval_3 / (unknown)         (time: 1; latitude: 2; longitude: 2)
+      cube_mix_0 / (unknown)              (time: 1; latitude: 2; longitude: 2)
         Dimension coordinates:
             time                             x            -             -
             latitude                         -            x             -
             longitude                        -            -             x
         Cell methods:
-            0                           time: maximum (interval: 1 day)
-            1                           latitude: longitude: minimum (interval: 0.1 degrees interval: 0.1 degrees)
+            0                           time: mean (interval: 1 day comment: daily mean time)
   ```
   
   ```
-      cube_interval_2 / (unknown)         (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            0                           latitude: longitude: mean (interval: 0.1 degree_n interval: 0.2 degree_e)
-  ```
-  
-  ```
-      cube_comment_2 / (unknown)          (time: 1; latitude: 2; longitude: 2)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Cell methods:
-            0                           latitude: longitude: mean (this is a shared comment this is a shared comment)
-  ```
-  
-  ```
-      cube_median / (unknown)             (time: 1)
+      cube_standard_deviation / (unknown) (time: 1)
         Dimension coordinates:
             time                             x
         Cell methods:
-            0                           time: median
+            0                           time: standard_deviation
   ```
   
   ```
@@ -5576,14 +5976,23 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   ```
-      cube_axes_4 / (unknown)             (time: 1; latitude: 2; longitude: 2)
+      cube_axes_1 / (unknown)             (time: 1; latitude: 2; longitude: 2)
         Dimension coordinates:
             time                             x            -             -
             latitude                         -            x             -
             longitude                        -            -             x
         Cell methods:
-            0                           latitude: longitude: mean
-            1                           time: maximum
+            0                           time: latitude: longitude: mean
+  ```
+  
+  ```
+      cube_interval_0 / (unknown)         (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            0                           time: mean (interval: 1 day)
   ```
   
   ```
@@ -5594,6 +6003,40 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
             longitude                        -            -             x
         Cell methods:
             0                           latitude: longitude: mean (interval: 0.1 degree_n interval: 0.2 degree_e comment: area-weighted comment: area-weighted)
+  ```
+  
+  ```
+      cube_point / (unknown)              (time: 1)
+        Dimension coordinates:
+            time                             x
+        Cell methods:
+            0                           time: point
+  ```
+  
+  ```
+      cube_mode / (unknown)               (time: 1)
+        Dimension coordinates:
+            time                             x
+        Cell methods:
+            0                           time: mode
+  ```
+  
+  ```
+      cube_variance / (unknown)           (time: 1)
+        Dimension coordinates:
+            time                             x
+        Cell methods:
+            0                           time: variance
+  ```
+  
+  ```
+      cube_comment_0 / (unknown)          (time: 1; latitude: 2; longitude: 2)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Cell methods:
+            0                           time: mean (this is a time comment)
   ```
   
   ```
@@ -5608,39 +6051,33 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   ```
-      cube_comment_3 / (unknown)          (time: 1; latitude: 2; longitude: 2)
+      cube_mix_2 / (unknown)              (time: 1; latitude: 2; longitude: 2)
         Dimension coordinates:
             time                             x            -             -
             latitude                         -            x             -
             longitude                        -            -             x
         Cell methods:
-            0                           latitude: longitude: mean (this a lat comment this is a lon comment)
+            0                           latitude: longitude: mean (interval: 0.1 degree_n interval: 0.2 degree_e comment: area-weighted comment: area-weighted)
+            1                           time: sum (interval: 7 days comment: weekly sum)
   ```
   
   ```
-      cube_mid_range / (unknown)          (time: 1)
-        Dimension coordinates:
-            time                             x
-        Cell methods:
-            0                           time: mid_range
-  ```
-  
-  ```
-      cube_interval_0 / (unknown)         (time: 1; latitude: 2; longitude: 2)
+      cube_interval_3 / (unknown)         (time: 1; latitude: 2; longitude: 2)
         Dimension coordinates:
             time                             x            -             -
             latitude                         -            x             -
             longitude                        -            -             x
         Cell methods:
-            0                           time: mean (interval: 1 day)
+            0                           time: maximum (interval: 1 day)
+            1                           latitude: longitude: minimum (interval: 0.1 degrees interval: 0.1 degrees)
   ```
   
   ```
-      cube_mode / (unknown)               (time: 1)
+      cube_minimum / (unknown)            (time: 1)
         Dimension coordinates:
             time                             x
         Cell methods:
-            0                           time: mode
+            0                           time: minimum
   ```
   
   ```
@@ -5652,19 +6089,37 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   ```
   
   ```
-      cube_variance / (unknown)           (time: 1)
+      cube_comment_1 / (unknown)          (time: 1; latitude: 2; longitude: 2)
         Dimension coordinates:
-            time                             x
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
         Cell methods:
-            0                           time: variance
+            0                           time: mean (this is a time comment)
   ```
   
   ```
-      cube_standard_deviation / (unknown) (time: 1)
+      cube_maximum / (unknown)            (time: 1)
         Dimension coordinates:
             time                             x
         Cell methods:
-            0                           time: standard_deviation
+            0                           time: maximum
+  ```
+  
+  ```
+      cube_mid_range / (unknown)          (time: 1)
+        Dimension coordinates:
+            time                             x
+        Cell methods:
+            0                           time: mid_range
+  ```
+  
+  ```
+      cube_mean / (unknown)               (time: 1)
+        Dimension coordinates:
+            time                             x
+        Cell methods:
+            0                           time: mean
   ```
   
   
@@ -5713,6 +6168,16 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
   
   
   ```
+      eastward_wind / (m s-1)             (time: 3; latitude: 3; longitude: 3)
+        Dimension coordinates:
+            time                             x            -             -
+            latitude                         -            x             -
+            longitude                        -            -             x
+        Attributes:
+            test                        'masked monotonic time coordinate'
+  ```
+  
+  ```
       eastward_wind / (m s-1)             (-- : 3; latitude: 3; longitude: 3)
         Dimension coordinates:
             latitude                        -            x             -
@@ -5734,19 +6199,11 @@ Gracefully creating 'latitude' auxiliary coordinate instead.
             test                        'masked non-monotonic time coordinate'
   ```
   
-  ```
-      eastward_wind / (m s-1)             (time: 3; latitude: 3; longitude: 3)
-        Dimension coordinates:
-            time                             x            -             -
-            latitude                         -            x             -
-            longitude                        -            -             x
-        Attributes:
-            test                        'masked monotonic time coordinate'
-  ```
-  
   
   
   ```
+  
+  _WarnComboDefaultingLoad: Gracefully filling 'time2' dimension coordinate masked points
   
   _WarnComboDefaultingCfLoad: Failed to create 'time1' dimension coordinate: The 'time' DimCoord points array must be strictly monotonic.
 Gracefully creating 'time1' auxiliary coordinate instead.
@@ -5755,8 +6212,6 @@ Gracefully creating 'time1' auxiliary coordinate instead.
   
   _WarnComboDefaultingCfLoad: Failed to create 'time3' dimension coordinate: The 'time' DimCoord points array must be strictly monotonic.
 Gracefully creating 'time3' auxiliary coordinate instead.
-  
-  _WarnComboDefaultingLoad: Gracefully filling 'time2' dimension coordinate masked points
   
   ```
   
@@ -5901,19 +6356,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   ```
-      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                       'UGRID'
-            cf_role                           'face_edge_connectivity'
-            description                       'Created by xios'
-            name                              'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
-            start_index                       0
-            timeStamp                         '2020-Oct-18 21:20:18 GMT'
-            title                             'Created by xios'
-            uuid                              '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
-  ```
-  
-  ```
       surface_convective_rainfall_rate / (kg m-2 s-1) (-- : 1; -- : 864)
         Mesh coordinates:
             latitude                                    -       x
@@ -5938,6 +6380,34 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   ```
+      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                                        'UGRID'
+            cf_role                                            'face_face connectivity'
+            description                                        'Created by xios'
+            flag_meanings                                      'out_of_mesh'
+            flag_values                                        np.int32(-1)
+            name                                               'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
+            start_index                                        np.int32(0)
+            timeStamp                                          '2020-Oct-18 21:20:18 GMT'
+            title                                              'Created by xios'
+            uuid                                               '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
+  ```
+  
+  ```
+      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                       'UGRID'
+            cf_role                           'face_edge_connectivity'
+            description                       'Created by xios'
+            name                              'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
+            start_index                       np.int32(0)
+            timeStamp                         '2020-Oct-18 21:20:18 GMT'
+            title                             'Created by xios'
+            uuid                              '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
+  ```
+  
+  ```
       neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
         Attributes:
             Conventions                  'UGRID'
@@ -5945,25 +6415,10 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             comment                      'missing neighbor faces are indicated using _FillValue'
             description                  'Created by xios'
             name                         'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
-            start_index                  0
+            start_index                  np.int32(0)
             timeStamp                    '2020-Oct-18 21:20:18 GMT'
             title                        'Created by xios'
             uuid                         '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
-  ```
-  
-  ```
-      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                                        'UGRID'
-            cf_role                                            'face_face connectivity'
-            description                                        'Created by xios'
-            flag_meanings                                      'out_of_mesh'
-            flag_values                                        -1
-            name                                               'lfric_ngvat_2D_1t_face_half_levels_main_conv_rain'
-            start_index                                        0
-            timeStamp                                          '2020-Oct-18 21:20:18 GMT'
-            title                                              'Created by xios'
-            uuid                                               '85317dbf-79e1-44d6-9032-a8c9b76b6fc0'
   ```
   
   
@@ -5973,19 +6428,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   #### [NetCDF/unstructured_grid/lfric_ngvat_2D_72t_face_half_levels_main_conv_rain.nc](test_data/NetCDF/unstructured_grid/lfric_ngvat_2D_72t_face_half_levels_main_conv_rain.nc)
 
   
-  
-  ```
-      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                       'UGRID'
-            cf_role                           'face_edge_connectivity'
-            description                       'Created by xios'
-            name                              'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
-            start_index                       0
-            timeStamp                         '2020-Oct-18 21:18:35 GMT'
-            title                             'Created by xios'
-            uuid                              'b3dc0fb4-9828-4663-a5ac-2a5763280159'
-  ```
   
   ```
       surface_convective_rainfall_rate / (kg m-2 s-1) (-- : 72; -- : 864)
@@ -6012,6 +6454,34 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   ```
+      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                                        'UGRID'
+            cf_role                                            'face_face connectivity'
+            description                                        'Created by xios'
+            flag_meanings                                      'out_of_mesh'
+            flag_values                                        np.int32(-1)
+            name                                               'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
+            start_index                                        np.int32(0)
+            timeStamp                                          '2020-Oct-18 21:18:35 GMT'
+            title                                              'Created by xios'
+            uuid                                               'b3dc0fb4-9828-4663-a5ac-2a5763280159'
+  ```
+  
+  ```
+      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                       'UGRID'
+            cf_role                           'face_edge_connectivity'
+            description                       'Created by xios'
+            name                              'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
+            start_index                       np.int32(0)
+            timeStamp                         '2020-Oct-18 21:18:35 GMT'
+            title                             'Created by xios'
+            uuid                              'b3dc0fb4-9828-4663-a5ac-2a5763280159'
+  ```
+  
+  ```
       neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
         Attributes:
             Conventions                  'UGRID'
@@ -6019,25 +6489,10 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             comment                      'missing neighbor faces are indicated using _FillValue'
             description                  'Created by xios'
             name                         'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
-            start_index                  0
+            start_index                  np.int32(0)
             timeStamp                    '2020-Oct-18 21:18:35 GMT'
             title                        'Created by xios'
             uuid                         'b3dc0fb4-9828-4663-a5ac-2a5763280159'
-  ```
-  
-  ```
-      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                                        'UGRID'
-            cf_role                                            'face_face connectivity'
-            description                                        'Created by xios'
-            flag_meanings                                      'out_of_mesh'
-            flag_values                                        -1
-            name                                               'lfric_ngvat_2D_72t_face_half_levels_main_conv_rain'
-            start_index                                        0
-            timeStamp                                          '2020-Oct-18 21:18:35 GMT'
-            title                                              'Created by xios'
-            uuid                                               'b3dc0fb4-9828-4663-a5ac-2a5763280159'
   ```
   
   
@@ -6075,6 +6530,21 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   ```
+      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                                        'UGRID'
+            cf_role                                            'face_face connectivity'
+            description                                        'Created by xios'
+            flag_meanings                                      'out_of_mesh'
+            flag_values                                        np.int32(-1)
+            name                                               'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
+            start_index                                        np.int32(0)
+            timeStamp                                          '2020-Oct-18 21:20:19 GMT'
+            title                                              'Created by xios'
+            uuid                                               'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
+  ```
+  
+  ```
       neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
         Attributes:
             Conventions                  'UGRID'
@@ -6082,7 +6552,7 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             comment                      'missing neighbor faces are indicated using _FillValue'
             description                  'Created by xios'
             name                         'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
-            start_index                  0
+            start_index                  np.int32(0)
             timeStamp                    '2020-Oct-18 21:20:19 GMT'
             title                        'Created by xios'
             uuid                         'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
@@ -6095,25 +6565,10 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             cf_role                           'face_edge_connectivity'
             description                       'Created by xios'
             name                              'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
-            start_index                       0
+            start_index                       np.int32(0)
             timeStamp                         '2020-Oct-18 21:20:19 GMT'
             title                             'Created by xios'
             uuid                              'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
-  ```
-  
-  ```
-      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                                        'UGRID'
-            cf_role                                            'face_face connectivity'
-            description                                        'Created by xios'
-            flag_meanings                                      'out_of_mesh'
-            flag_values                                        -1
-            name                                               'lfric_ngvat_3D_1t_full_level_face_grid_main_area_fraction_unit1'
-            start_index                                        0
-            timeStamp                                          '2020-Oct-18 21:20:19 GMT'
-            title                                              'Created by xios'
-            uuid                                               'e9218bc2-9665-4ee8-ac7c-b456c02ff9af'
   ```
   
   
@@ -6125,13 +6580,28 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   ```
+      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                                        'UGRID'
+            cf_role                                            'face_face connectivity'
+            description                                        'Created by xios'
+            flag_meanings                                      'out_of_mesh'
+            flag_values                                        np.int32(-1)
+            name                                               'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
+            start_index                                        np.int32(0)
+            timeStamp                                          '2020-Oct-18 21:20:19 GMT'
+            title                                              'Created by xios'
+            uuid                                               '412ffe9b-6a55-420e-940b-051e7d9f24bb'
+  ```
+  
+  ```
       Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
         Attributes:
             Conventions                       'UGRID'
             cf_role                           'face_edge_connectivity'
             description                       'Created by xios'
             name                              'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
-            start_index                       0
+            start_index                       np.int32(0)
             timeStamp                         '2020-Oct-18 21:20:19 GMT'
             title                             'Created by xios'
             uuid                              '412ffe9b-6a55-420e-940b-051e7d9f24bb'
@@ -6145,25 +6615,10 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             comment                      'missing neighbor faces are indicated using _FillValue'
             description                  'Created by xios'
             name                         'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
-            start_index                  0
+            start_index                  np.int32(0)
             timeStamp                    '2020-Oct-18 21:20:19 GMT'
             title                        'Created by xios'
             uuid                         '412ffe9b-6a55-420e-940b-051e7d9f24bb'
-  ```
-  
-  ```
-      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                                        'UGRID'
-            cf_role                                            'face_face connectivity'
-            description                                        'Created by xios'
-            flag_meanings                                      'out_of_mesh'
-            flag_values                                        -1
-            name                                               'lfric_ngvat_3D_1t_half_level_face_grid_derived_theta_in_w3'
-            start_index                                        0
-            timeStamp                                          '2020-Oct-18 21:20:19 GMT'
-            title                                              'Created by xios'
-            uuid                                               '412ffe9b-6a55-420e-940b-051e7d9f24bb'
   ```
   
   ```
@@ -6201,16 +6656,18 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   ```
-      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
+      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
         Attributes:
-            Conventions                       'UGRID'
-            cf_role                           'face_edge_connectivity'
-            description                       'Created by xios'
-            name                              'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_ ...'
-            start_index                       0
-            timeStamp                         '2020-Oct-18 21:20:18 GMT'
-            title                             'Created by xios'
-            uuid                              '798b1d5b-05e3-4380-a3b9-822709b0b74c'
+            Conventions                                        'UGRID'
+            cf_role                                            'face_face connectivity'
+            description                                        'Created by xios'
+            flag_meanings                                      'out_of_mesh'
+            flag_values                                        np.int32(-1)
+            name                                               'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_ ...'
+            start_index                                        np.int32(0)
+            timeStamp                                          '2020-Oct-18 21:20:18 GMT'
+            title                                              'Created by xios'
+            uuid                                               '798b1d5b-05e3-4380-a3b9-822709b0b74c'
   ```
   
   ```
@@ -6238,6 +6695,19 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   ```
+      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                       'UGRID'
+            cf_role                           'face_edge_connectivity'
+            description                       'Created by xios'
+            name                              'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_ ...'
+            start_index                       np.int32(0)
+            timeStamp                         '2020-Oct-18 21:20:18 GMT'
+            title                             'Created by xios'
+            uuid                              '798b1d5b-05e3-4380-a3b9-822709b0b74c'
+  ```
+  
+  ```
       neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
         Attributes:
             Conventions                  'UGRID'
@@ -6245,25 +6715,10 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             comment                      'missing neighbor faces are indicated using _FillValue'
             description                  'Created by xios'
             name                         'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_ ...'
-            start_index                  0
+            start_index                  np.int32(0)
             timeStamp                    '2020-Oct-18 21:20:18 GMT'
             title                        'Created by xios'
             uuid                         '798b1d5b-05e3-4380-a3b9-822709b0b74c'
-  ```
-  
-  ```
-      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                                        'UGRID'
-            cf_role                                            'face_face connectivity'
-            description                                        'Created by xios'
-            flag_meanings                                      'out_of_mesh'
-            flag_values                                        -1
-            name                                               'lfric_ngvat_3D_snow_pseudo_levels_1t_face_half_levels_main_snow_layer_ ...'
-            start_index                                        0
-            timeStamp                                          '2020-Oct-18 21:20:18 GMT'
-            title                                              'Created by xios'
-            uuid                                               '798b1d5b-05e3-4380-a3b9-822709b0b74c'
   ```
   
   
@@ -6275,13 +6730,42 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   ```
+      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            Conventions                  'UGRID'
+            cf_role                      'edge_face connectivity'
+            comment                      'missing neighbor faces are indicated using _FillValue'
+            description                  'Created by xios'
+            name                         'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temper ...'
+            start_index                  np.int32(0)
+            timeStamp                    '2020-Oct-18 21:20:18 GMT'
+            title                        'Created by xios'
+            uuid                         'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
+  ```
+  
+  ```
+      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                                        'UGRID'
+            cf_role                                            'face_face connectivity'
+            description                                        'Created by xios'
+            flag_meanings                                      'out_of_mesh'
+            flag_values                                        np.int32(-1)
+            name                                               'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temper ...'
+            start_index                                        np.int32(0)
+            timeStamp                                          '2020-Oct-18 21:20:18 GMT'
+            title                                              'Created by xios'
+            uuid                                               'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
+  ```
+  
+  ```
       Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
         Attributes:
             Conventions                       'UGRID'
             cf_role                           'face_edge_connectivity'
             description                       'Created by xios'
             name                              'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temper ...'
-            start_index                       0
+            start_index                       np.int32(0)
             timeStamp                         '2020-Oct-18 21:20:18 GMT'
             title                             'Created by xios'
             uuid                              'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
@@ -6311,35 +6795,6 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             uuid                        'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
   ```
   
-  ```
-      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                  'UGRID'
-            cf_role                      'edge_face connectivity'
-            comment                      'missing neighbor faces are indicated using _FillValue'
-            description                  'Created by xios'
-            name                         'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temper ...'
-            start_index                  0
-            timeStamp                    '2020-Oct-18 21:20:18 GMT'
-            title                        'Created by xios'
-            uuid                         'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
-  ```
-  
-  ```
-      Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                                        'UGRID'
-            cf_role                                            'face_face connectivity'
-            description                                        'Created by xios'
-            flag_meanings                                      'out_of_mesh'
-            flag_values                                        -1
-            name                                               'lfric_ngvat_3D_soil_pseudo_levels_1t_face_half_levels_main_soil_temper ...'
-            start_index                                        0
-            timeStamp                                          '2020-Oct-18 21:20:18 GMT'
-            title                                              'Created by xios'
-            uuid                                               'bcb9d574-1c71-40bc-99a2-67ae2ba08e18'
-  ```
-  
   
   
   
@@ -6349,42 +6804,15 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   ```
-      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
-        Attributes:
-            Conventions                       'UGRID'
-            cf_role                           'face_edge_connectivity'
-            description                       'Created by xios'
-            name                              'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile'
-            start_index                       0
-            timeStamp                         '2020-Oct-18 21:20:17 GMT'
-            title                             'Created by xios'
-            uuid                              'f42f46fc-d879-479b-ab60-73b76b8b5816'
-  ```
-  
-  ```
-      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
-        Attributes:
-            Conventions                  'UGRID'
-            cf_role                      'edge_face connectivity'
-            comment                      'missing neighbor faces are indicated using _FillValue'
-            description                  'Created by xios'
-            name                         'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile'
-            start_index                  0
-            timeStamp                    '2020-Oct-18 21:20:17 GMT'
-            title                        'Created by xios'
-            uuid                         'f42f46fc-d879-479b-ab60-73b76b8b5816'
-  ```
-  
-  ```
       Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
         Attributes:
             Conventions                                        'UGRID'
             cf_role                                            'face_face connectivity'
             description                                        'Created by xios'
             flag_meanings                                      'out_of_mesh'
-            flag_values                                        -1
+            flag_values                                        np.int32(-1)
             name                                               'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile'
-            start_index                                        0
+            start_index                                        np.int32(0)
             timeStamp                                          '2020-Oct-18 21:20:17 GMT'
             title                                              'Created by xios'
             uuid                                               'f42f46fc-d879-479b-ab60-73b76b8b5816'
@@ -6414,25 +6842,17 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             uuid                                     'f42f46fc-d879-479b-ab60-73b76b8b5816'
   ```
   
-  
-  
-  
-
-  #### [NetCDF/unstructured_grid/lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_density.nc](test_data/NetCDF/unstructured_grid/lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_density.nc)
-
-  
-  
   ```
       Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
         Attributes:
             Conventions                       'UGRID'
             cf_role                           'face_edge_connectivity'
             description                       'Created by xios'
-            name                              'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_den ...'
-            start_index                       0
-            timeStamp                         '2020-Oct-18 21:20:18 GMT'
+            name                              'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile'
+            start_index                       np.int32(0)
+            timeStamp                         '2020-Oct-18 21:20:17 GMT'
             title                             'Created by xios'
-            uuid                              'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
+            uuid                              'f42f46fc-d879-479b-ab60-73b76b8b5816'
   ```
   
   ```
@@ -6442,12 +6862,20 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             cf_role                      'edge_face connectivity'
             comment                      'missing neighbor faces are indicated using _FillValue'
             description                  'Created by xios'
-            name                         'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_den ...'
-            start_index                  0
-            timeStamp                    '2020-Oct-18 21:20:18 GMT'
+            name                         'lfric_ngvat_3D_tile_pseudo_levels_1t_face_half_levels_main_sw_up_tile'
+            start_index                  np.int32(0)
+            timeStamp                    '2020-Oct-18 21:20:17 GMT'
             title                        'Created by xios'
-            uuid                         'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
+            uuid                         'f42f46fc-d879-479b-ab60-73b76b8b5816'
   ```
+  
+  
+  
+  
+
+  #### [NetCDF/unstructured_grid/lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_density.nc](test_data/NetCDF/unstructured_grid/lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_density.nc)
+
+  
   
   ```
       Indicates which other faces neighbor each face / (no_unit) (-- : 864; -- : 4)
@@ -6456,9 +6884,9 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             cf_role                                            'face_face connectivity'
             description                                        'Created by xios'
             flag_meanings                                      'out_of_mesh'
-            flag_values                                        -1
+            flag_values                                        np.int32(-1)
             name                                               'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_den ...'
-            start_index                                        0
+            start_index                                        np.int32(0)
             timeStamp                                          '2020-Oct-18 21:20:18 GMT'
             title                                              'Created by xios'
             uuid                                               'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
@@ -6488,6 +6916,33 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             uuid                        'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
   ```
   
+  ```
+      Maps every face to its edges. / (unknown) (-- : 864; -- : 4)
+        Attributes:
+            Conventions                       'UGRID'
+            cf_role                           'face_edge_connectivity'
+            description                       'Created by xios'
+            name                              'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_den ...'
+            start_index                       np.int32(0)
+            timeStamp                         '2020-Oct-18 21:20:18 GMT'
+            title                             'Created by xios'
+            uuid                              'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
+  ```
+  
+  ```
+      neighbor faces for edges / (unknown) (-- : 1728; -- : 2)
+        Attributes:
+            Conventions                  'UGRID'
+            cf_role                      'edge_face connectivity'
+            comment                      'missing neighbor faces are indicated using _FillValue'
+            description                  'Created by xios'
+            name                         'lfric_ngvat_3D_veg_pseudo_levels_1t_face_half_levels_main_snowpack_den ...'
+            start_index                  np.int32(0)
+            timeStamp                    '2020-Oct-18 21:20:18 GMT'
+            title                        'Created by xios'
+            uuid                         'a73698fe-8d84-4d55-baa7-bebfc0e5025e'
+  ```
+  
   
   
   
@@ -6503,7 +6958,7 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             cf_role                           'face_edge_connectivity'
             description                       'Created by xios'
             name                              'lfric_surface'
-            start_index                       0
+            start_index                       np.int32(0)
             timeStamp                         '2020-Feb-07 16:23:14 GMT'
             title                             'Created by xios'
             uuid                              '489bcef5-3d1c-4529-be42-4ab5f8c8497b'
@@ -6517,7 +6972,7 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             comment                      'missing neighbor faces are indicated using _FillValue'
             description                  'Created by xios'
             name                         'lfric_surface'
-            start_index                  0
+            start_index                  np.int32(0)
             timeStamp                    '2020-Feb-07 16:23:14 GMT'
             title                        'Created by xios'
             uuid                         '489bcef5-3d1c-4529-be42-4ab5f8c8497b'
@@ -6530,9 +6985,9 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             cf_role                                            'face_face connectivity'
             description                                        'Created by xios'
             flag_meanings                                      'out_of_mesh'
-            flag_values                                        -1
+            flag_values                                        np.int32(-1)
             name                                               'lfric_surface'
-            start_index                                        0
+            start_index                                        np.int32(0)
             timeStamp                                          '2020-Feb-07 16:23:14 GMT'
             title                                              'Created by xios'
             uuid                                               '489bcef5-3d1c-4529-be42-4ab5f8c8497b'
@@ -7016,31 +7471,7 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             production                                'An IPSL model'
             timeStamp                                 '2016-Oct-24 15:16:48 BST'
             title                                     'Created by xios'
-            topology_dimension                        2
-  ```
-  
-  ```
-      radius / (radians)                  (time: 1; levels: 6; -- : 866)
-        Dimension coordinates:
-            time                             x          -       -
-            levels                           -          x       -
-        Auxiliary coordinates:
-            time                             x          -       -
-            latitude                         -          -       x
-            longitude                        -          -       x
-        Cell methods:
-            0                           time: point
-        Attributes:
-            Conventions                 'UGRID'
-            description                 'Created by xios'
-            history                     'Wed Nov 30 15:01:40 2016: /project/ukmo/rhel6/nco/bin/ncatted -O -a time_origin,time_instant,o,c,0001-01-01 ...'
-            interval_operation          '5 s'
-            interval_write              '5 s'
-            name                        'theta_nodal_xios'
-            online_operation            'instant'
-            production                  'An IPSL model'
-            timeStamp                   '2016-Oct-24 15:16:48 BST'
-            title                       'Created by xios'
+            topology_dimension                        np.int32(2)
   ```
   
   ```
@@ -7061,6 +7492,30 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             interval_operation          '5 s'
             interval_write              '5 s'
             invalid_standard_name       'Potential Temperature'
+            name                        'theta_nodal_xios'
+            online_operation            'instant'
+            production                  'An IPSL model'
+            timeStamp                   '2016-Oct-24 15:16:48 BST'
+            title                       'Created by xios'
+  ```
+  
+  ```
+      radius / (radians)                  (time: 1; levels: 6; -- : 866)
+        Dimension coordinates:
+            time                             x          -       -
+            levels                           -          x       -
+        Auxiliary coordinates:
+            time                             x          -       -
+            latitude                         -          -       x
+            longitude                        -          -       x
+        Cell methods:
+            0                           time: point
+        Attributes:
+            Conventions                 'UGRID'
+            description                 'Created by xios'
+            history                     'Wed Nov 30 15:01:40 2016: /project/ukmo/rhel6/nco/bin/ncatted -O -a time_origin,time_instant,o,c,0001-01-01 ...'
+            interval_operation          '5 s'
+            interval_write              '5 s'
             name                        'theta_nodal_xios'
             online_operation            'instant'
             production                  'An IPSL model'
@@ -7111,8 +7566,8 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             Conventions                       'CF-1.7 CMIP-6.2'
             activity_id                       'LUMIP'
             branch_method                     'standard'
-            branch_time_in_child              674885.0
-            branch_time_in_parent             182500.0
+            branch_time_in_child              np.float64(674885.0)
+            branch_time_in_parent             np.float64(182500.0)
             case_id                           '11'
             cesm_casename                     'b.e21.B1850.f09_g17.CMIP6-deforest-globe.001'
             comment                           'For oceans with more than 1 mesh (e.g. staggered grids), report areas that ...'
@@ -7123,13 +7578,13 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             experiment                        'idealized transient global deforestation'
             experiment_id                     'deforest-globe'
             external_variables                'areacello volcello'
-            forcing_index                     1
+            forcing_index                     np.int64(1)
             frequency                         'fx'
             further_info_url                  'https://furtherinfo.es-doc.org/CMIP6.NCAR.CESM2.deforest-globe.none.r1 ...'
             grid                              'native gx1v7 displaced pole grid (384x320 latxlon)'
             grid_label                        'gn'
             id                                'volcello'
-            initialization_index              1
+            initialization_index              np.int64(1)
             institution                       'National Center for Atmospheric Research, Climate and Global Dynamics Laboratory, ...'
             institution_id                    'NCAR'
             license                           'CMIP6 model data produced by <The National Center for Atmospheric Research> ...'
@@ -7144,10 +7599,10 @@ Gracefully creating 'time3' auxiliary coordinate instead.
             parent_source_id                  'CESM2'
             parent_time_units                 'days since 0001-01-01 00:00:00'
             parent_variant_label              'r1i1p1f1'
-            physics_index                     1
+            physics_index                     np.int64(1)
             product                           'model-output'
             prov                              'fx ((isd.003))'
-            realization_index                 1
+            realization_index                 np.int64(1)
             realm                             'ocean'
             source                            'CESM2 (2017): atmosphere: CAM6 (0.9x1.25 finite volume grid; 288 x 192 ...'
             source_id                         'CESM2'
@@ -7249,6 +7704,14 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/COLPEX/small_eastward_wind.pp](test_data/PP/COLPEX/small_eastward_wind.pp)
@@ -7280,6 +7743,8 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   IrisUserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
   
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
   ```
   
   
@@ -7289,19 +7754,19 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   ```
-      air_potential_temperature / (K)     (time: 6; model_level_number: 70; grid_latitude: 100; grid_longitude: 100)
+      air_potential_temperature / (K)     (model_level_number: 70; time: 6; grid_latitude: 100; grid_longitude: 100)
         Dimension coordinates:
-            time                             x                      -                  -                    -
-            model_level_number               -                      x                  -                    -
-            grid_latitude                    -                      -                  x                    -
-            grid_longitude                   -                      -                  -                    x
+            model_level_number                             x         -                 -                    -
+            time                                           -         x                 -                    -
+            grid_latitude                                  -         -                 x                    -
+            grid_longitude                                 -         -                 -                    x
         Auxiliary coordinates:
-            forecast_reference_time          x                      -                  -                    -
-            level_height                     -                      x                  -                    -
-            sigma                            -                      x                  -                    -
-            surface_altitude                 -                      -                  x                    x
+            level_height                                   x         -                 -                    -
+            sigma                                          x         -                 -                    -
+            forecast_reference_time                        -         x                 -                    -
+            surface_altitude                               -         x                 x                    x
         Derived coordinates:
-            altitude                         -                      x                  x                    x
+            altitude                                       x         x                 x                    x
         Scalar coordinates:
             forecast_period             0.0 hours
         Attributes:
@@ -7328,6 +7793,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/aPPglob1/global.pp](test_data/PP/aPPglob1/global.pp)
@@ -7353,6 +7824,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -7391,6 +7868,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/aPProt1/rotated.pp](test_data/PP/aPProt1/rotated.pp)
@@ -7413,6 +7896,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -7437,6 +7926,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -7463,6 +7958,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/cf_processing/000003000000.03.236.004224.1990.12.01.00.00.b.pp](test_data/PP/cf_processing/000003000000.03.236.004224.1990.12.01.00.00.b.pp)
@@ -7488,6 +7989,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/cf_processing/000003000000.03.236.008320.1990.12.01.00.00.b.pp](test_data/PP/cf_processing/000003000000.03.236.008320.1990.12.01.00.00.b.pp)
@@ -7511,6 +8018,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -7537,6 +8050,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/cf_processing/001000000000.00.000.000000.1860.01.01.00.00.f.b.pp](test_data/PP/cf_processing/001000000000.00.000.000000.1860.01.01.00.00.f.b.pp)
@@ -7555,6 +8074,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -7578,6 +8103,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -7632,6 +8163,8 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   IrisUserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
   
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
   ```
   
   
@@ -7682,6 +8215,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/cf_processing/aaxzc_lon_lat_press_orig.b.pp](test_data/PP/cf_processing/aaxzc_lon_lat_press_orig.b.pp)
@@ -7707,6 +8246,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -7734,6 +8279,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/cf_processing/aaxzc_n10r13xy.b.pp](test_data/PP/cf_processing/aaxzc_n10r13xy.b.pp)
@@ -7757,6 +8308,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -7861,6 +8418,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/cf_processing/abxpa_press_lat.b.pp](test_data/PP/cf_processing/abxpa_press_lat.b.pp)
@@ -7885,6 +8448,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/cf_processing/integer.b.pp](test_data/PP/cf_processing/integer.b.pp)
@@ -7908,6 +8477,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -7935,6 +8510,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/cf_processing/ocean_xsect.b.pp](test_data/PP/cf_processing/ocean_xsect.b.pp)
@@ -7959,6 +8540,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/cf_processing/st0fc699.b.pp](test_data/PP/cf_processing/st0fc699.b.pp)
@@ -7982,6 +8569,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -8009,6 +8602,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/cf_processing/st30211.b.pp](test_data/PP/cf_processing/st30211.b.pp)
@@ -8034,6 +8633,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -8131,6 +8736,8 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   IrisUserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
   
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
   ```
   
   
@@ -8165,6 +8772,8 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   IrisUserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
   
   ```
   
@@ -8201,6 +8810,8 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   IrisUserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
   
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
   ```
   
   
@@ -8235,6 +8846,8 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   IrisUserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
   
   ```
   
@@ -8367,6 +8980,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/mdi_handmade_small/mdi_test_1000_3.pp](test_data/PP/mdi_handmade_small/mdi_test_1000_3.pp)
@@ -8389,6 +9008,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -8413,6 +9038,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/mdi_handmade_small/mdi_test_800_0.pp](test_data/PP/mdi_handmade_small/mdi_test_800_0.pp)
@@ -8435,6 +9066,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -8459,6 +9096,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/mdi_handmade_small/mdi_test_800_6.pp](test_data/PP/mdi_handmade_small/mdi_test_800_6.pp)
@@ -8481,6 +9124,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -8505,6 +9154,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/mdi_handmade_small/mdi_test_900_6.pp](test_data/PP/mdi_handmade_small/mdi_test_900_6.pp)
@@ -8528,6 +9183,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/meanMaxMin/200806081200__qwpb.T24.pp](test_data/PP/meanMaxMin/200806081200__qwpb.T24.pp)
@@ -8535,6 +9196,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
   ```
@@ -8574,6 +9241,8 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   IrisUserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
   
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
   ```
   
   
@@ -8601,6 +9270,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -8667,6 +9342,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/rotated_uk/rotated_uk.pp](test_data/PP/rotated_uk/rotated_uk.pp)
@@ -8694,6 +9375,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/simple_pp/bad_global.pp](test_data/PP/simple_pp/bad_global.pp)
@@ -8716,6 +9403,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -8740,6 +9433,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/simple_pp/partial_mask.pp](test_data/PP/simple_pp/partial_mask.pp)
@@ -8760,6 +9459,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -8792,6 +9497,8 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   IrisUserWarning: Unable to create instance of HybridHeightFactory. The source data contains no field(s) for 'orography'.
   
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
   ```
   
   
@@ -8818,6 +9525,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/ukV1/ukVpmslont_first_field.pp](test_data/PP/ukV1/ukVpmslont_first_field.pp)
@@ -8841,6 +9554,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/ukVorog/ukv_orog_refonly.pp](test_data/PP/ukVorog/ukv_orog_refonly.pp)
@@ -8861,6 +9580,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -8930,6 +9655,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   
   
   
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
+  
   
 
   #### [PP/zonal_mean/zonal_mean.pp](test_data/PP/zonal_mean/zonal_mean.pp)
@@ -8956,6 +9687,12 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   
+  
+  ```
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
+  
+  ```
   
   
 
@@ -8988,6 +9725,8 @@ Gracefully creating 'time3' auxiliary coordinate instead.
   ```
   
   IrisDeprecation: iris.fileformats.abf has been deprecated and will be removed in a future release. If you make use of this functionality, please contact the Iris Developers to discuss how to retain it (which may involve reversing the deprecation).
+  
+  FutureWarning: You are using legacy date precision for Iris units - max precision is seconds. In future, Iris will use microsecond precision - available since cf-units version 3.3 - which may affect core behaviour. To opt-in to the new behaviour, set `iris.FUTURE.date_microseconds = True`.
   
   ```
   
